@@ -1,0 +1,17 @@
+.Excel table {
+  width: 100%;
+}
+
+.Excel td {
+  background-color: #ffffff;
+  padding: 5px;
+  text-align: center;
+}
+
+.Excel th {
+  color: #000;
+  cursor: pointer;
+  font-weight: normal;
+  padding: 5px;
+  text-align: center;
+}
